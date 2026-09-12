@@ -9,7 +9,7 @@ description: >-
   AI assistants access to infrastructure metrics, configuration and logs across
   Serverless Framework, AWS CloudFormation and SAM stacks. The company is based
   in San Francisco and backed by Lightspeed Venture Partners and Trinity Ventures.
-url: https://raw.githubusercontent.com/api-evangelist/serverless/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/concept-serverless/refs/heads/main/apis.yml
 deliveryModel:
   model: saas
   open_source: false
